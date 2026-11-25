@@ -1,0 +1,1 @@
+Daftar kelas penyakit tanaman
