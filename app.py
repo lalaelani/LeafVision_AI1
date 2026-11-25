@@ -379,7 +379,7 @@ with st.sidebar:
 
     st.caption("LeafVision AI v1.0")
     st.caption("CNN-Based Plant Disease Classification")
-    st.caption("GEMASTIK 2026")
+    st.caption("PROJECT UAS COMVIS")
 
 
 # =====================================================
@@ -715,6 +715,6 @@ st.markdown("""
 ">
     <b>🌿 LeafVision AI</b><br>
     AI-Based Plant Disease Detection System<br>
-    GEMASTIK 2026
+    PROJECT UAS COMVIS
 </div>
 """, unsafe_allow_html=True)
